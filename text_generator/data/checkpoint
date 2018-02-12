@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/alex/fmi/ML/project/data/bgnews3"
+all_model_checkpoint_paths: "/home/alex/fmi/ML/project/data/bgnews3"
